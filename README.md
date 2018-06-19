@@ -5,6 +5,6 @@
 
 最后, 忘了提了, 我使用的 Netty 版本: **4.0.33.Final**
 
-https://segmentfault.com/a/1190000007403873
+https://segmentfault.com/a/1190000007403873 
 https://www.jianshu.com/u/90ab66c248e6 （占小狼博客）
 https://www.jianshu.com/p/6b48196b5043 （占小狼消息读取博客）

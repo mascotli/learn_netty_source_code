@@ -10,3 +10,9 @@ https://www.jianshu.com/u/90ab66c248e6 （占小狼博客）<br/>
 https://www.jianshu.com/p/6b48196b5043 （占小狼消息读取博客）<br/>
 https://blog.csdn.net/lemon89/article/details/77427338 （nio博客）<br/>
 https://www.zhihu.com/question/24322387 (知乎神解释) <br/>
+https://blog.csdn.net/jone_lu/article/details/49532171 (分布式rpc框架) <br/>
+https://www.nutgeek.com/ (坚果极客) <br/>
+https://blog.csdn.net/a953713428/article/details/68939371 (rpc) <br/>
+https://blog.csdn.net/column/details/15621.html (rpc) <br/>
+https://blog.csdn.net/linsongbin1/article/details/77915686 (rpc) <br/>
+http://outofmemory.cn/code-snippet/ (rpc) <br/>
